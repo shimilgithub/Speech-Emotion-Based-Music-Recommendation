@@ -1,0 +1,12 @@
+numpy
+pandas
+librosa
+matplotlib
+seaborn
+tensorflow
+scikit-learn
+imbalanced-learn
+spotipy
+python-dotenv
+joblib
+streamlit
