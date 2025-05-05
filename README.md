@@ -92,4 +92,24 @@ In order to run web app, we need  `best_model.h5`(mode),`laber_encoder.pkl`(labe
 Upload a .wav file to get started.
 
 
+## 📁 Project Structure
+
+```
+Moodify/
+├── AudioWAV/                         # Contains all audio samples (train/test)
+├── Code/                             # Source code for training, evaluation, and app
+│   ├── moodify-method_1.ipynb        # Method 1 - Without data augmentation
+│   ├── moodify-method_2.ipynb        # Method 2 - With data augmentation
+│   ├── requirements.txt              # Required Python libraries
+│   └── App/
+│       ├── app.py                    # Streamlit web application
+│       ├── best_model.h5             # Saved best model
+│       ├── label_encoder.pkl         # Label encoder for predictions
+│       └── scaler.pkl                # Data scaler (pickle)
+├── file_organization.pdf             # Descriptions of all project files
+├── Presentation_HAL_9000.pdf         # Final presentation slides
+├── Project_Final_Report_HAL9000.pdf  # Final report with ideas and outcomes
+├── README.pdf                        # Instructions on running the project
+└── README.md                         # You are here
+```
 
