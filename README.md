@@ -106,10 +106,8 @@ Moodify/
 │       ├── best_model.h5             # Saved best model
 │       ├── label_encoder.pkl         # Label encoder for predictions
 │       └── scaler.pkl                # Data scaler (pickle)
-├── file_organization.pdf             # Descriptions of all project files
-├── Presentation_HAL_9000.pdf         # Final presentation slides
-├── Project_Final_Report_HAL9000.pdf  # Final report with ideas and outcomes
-├── README.pdf                        # Instructions on running the project
+├── Presentation.pdf         # Final presentation slides
+├── Report.pdf  # Final report with ideas and outcomes
 └── README.md                         # You are here
 ```
 
