@@ -1,6 +1,6 @@
 # Speech Emotion Based Music Recommendation System
 
-THis project is a speech-based music recommendation system that detects human emotions from voice and recommends music accordingly. It integrates speech emotion recognition and Spotify music recommendations into one seamless user experience. The project provides two alternative methods for emotion recognition and also includes a Streamlit web application for interactive use.
+This project is a speech-based music recommendation system that detects human emotions from voice and recommends music accordingly. It integrates speech emotion recognition and Spotify music recommendations into one seamless user experience. The project provides two alternative methods for emotion recognition and also includes a Streamlit web application for interactive use.
 
 ## Overview
 
