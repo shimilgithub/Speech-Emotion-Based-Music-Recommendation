@@ -4,7 +4,7 @@ THis project is a speech-based music recommendation system that detects human em
 
 ## Overview
 
-Moodify aims to enhance music personalization using AI-driven speech emotion recognition. Based on the mood of the user inferred from their voice, it maps emotions to predefined genres and fetches real-time Spotify track suggestions.
+The project aims to enhance music personalization using AI-driven speech emotion recognition. Based on the mood of the user inferred from their voice, it maps emotions to predefined genres and fetches real-time Spotify track suggestions.
 
 ## Features
 
@@ -95,7 +95,7 @@ Upload a .wav file to get started.
 ## 📁 Project Structure
 
 ```
-Moodify/
+Speech-Emotion-Based-Music-Recommendation/
 ├── AudioWAV/                         # Contains all audio samples (train/test)
 ├── Code/                             # Source code for training, evaluation, and app
 │   ├── moodify-method_1.ipynb        # Method 1 - Without data augmentation
